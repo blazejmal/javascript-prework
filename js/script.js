@@ -29,7 +29,7 @@ computerMove = 'nożyce';
 printMessage('Mój ruch to: ' + computerMove);
 
 
-
+// LOSOWANIE
 
 let playerInput = prompt('Wybierz swój ruch! 1: kamień, 2: papier, 3: nożyce.');
 
