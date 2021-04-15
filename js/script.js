@@ -121,5 +121,5 @@ buttonScissors.addEventListener('click', function () {
 })
 
 
-console.log('Send to git');
+console.log('Change');
  // send to git
